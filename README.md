@@ -1,7 +1,15 @@
-# unity-rhythm-engine
-A template project for creating rhythm games in Unity. A current work in progress.
+# RhythmDesk
 
-# Current working test information
-* Load the `MusicScore` scene.
-* Press `p` to start the song
-* Press the `j` `k`, `l` button on the beat to destroy the notes for the treble. The bass is `s` `d`, `f`.
+RhythmDesk is an experimental game for my game-prototyping course.
+
+## How to play?
+1. Connect your android phone and download unity remote 5. 
+2. Open up project and hit play button. 
+3. Click the green button at the left upper corner.
+4. Hit the desk at the right moment.
+
+## I can't play!
+The game rely on Unity Remote to pick phone's linear acceleration sensor.If your phone doesn't show gameplay image, you should google this problem. 
+
+## The beat can't accurately correspond to the game note!
+That's correct. I don't have necessary knowledge to solve this problem.
